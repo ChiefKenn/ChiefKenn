@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chief_kenn
 
-🔒 **Penetration Tester in Training | Ethical Hacker | Forex Trading Analyst**  
+🔒 ** Forex Trading Analyst | Penetration Tester / Ethical Hacker Intern with Harvoxx Tech Hub**  
 
 ---
 
