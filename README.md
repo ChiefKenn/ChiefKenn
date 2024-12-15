@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Chief_kenn]  
+# 👋 Hi, I'm Chief_kenn
 
 🔒 **Penetration Tester in Training | Ethical Hacker | Forex Trading Analyst**  
 
