@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chief_kenn
 
-🔒 ** Forex Trader | Ethical Hacker & DFIR Analyst **  
+🔒 **FOREX TRADER | ETHICAL HACKER & DFIR ANALYST**  
 
 ---
 
@@ -21,10 +21,6 @@ My journey reflects my passion for problem-solving and commitment to contributin
 - **Platforms**: MetaTrader 4 & 5, TradingView and MatchTrader.  
 - **Trading Strategies**: Algorithmic trading (DAX Brand).
 
-
-### **Cybersecurity**  
-- **Technical Skills**: Vulnerability scanning, Penetration testing, Privilege escalation, Web Application Security-OWASP TOP-10.
-- **TProfile
 - 
 🔐 ## **Core Expertise: Cybersecurity & DFIR**
 
