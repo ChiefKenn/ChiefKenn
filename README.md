@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chief_kenn
 
-🔒 ** Forex Trading Analyst | Ethical Hacker & DFIR Analyst**  
+🔒 ** Forex Trading Analyst | Ethical Hacker & DFIR Analyst **  
 
 ---
 
