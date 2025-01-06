@@ -67,6 +67,11 @@ Programming & Scripting: Python (basic level), Bash
 ---
 
 ## 🚀 **Highlighted Projects**  
+- Incident Response: Assisted in breach investigation with a report detailing network analysis and forensic findings.
+
+- Web Application Testing: Conducted vulnerability assessments for a simulated web application, providing remediation recommendations.
+
+- Forensics Case Study: Recovered deleted images and provided a detailed forensic report using industry-standard tools.
 
 - **[Cybersecurity Practice Labs](PROJECT IN VIEW):**  
   A collection of simulations demonstrating web app penetration testing, privilege escalation, and incident response.  
