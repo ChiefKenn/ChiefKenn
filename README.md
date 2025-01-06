@@ -16,12 +16,13 @@ My journey reflects my passion for problem-solving and commitment to contributin
 
 ## 🔧 **Core Skills and Expertise**  
 
-### **Forex Trading**  
-- **Analysis Techniques**: Fundamental Analysis, Technical analysis, Risk Management, and strategy formulation.  
-- **Platforms**: MetaTrader 4 & 5, TradingView and MatchTrader.  
-- **Trading Strategies**: Algorithmic trading (DAX Brand).
+### **Professional Forex Trader**  
+- *Advanced Fundamental Analysis, Technical analysis, Risk Management, and strategy formulation.*
+- *Platforms: MetaTrader 4 & 5, TradingView and MatchTrader.*  
+- *Trading Strategies*: Advanced Algo Trading (DAX Brand).
 
-- 
+
+
 🔐 ## **Core Expertise: Cybersecurity & DFIR**
 
 **Ethical Hacking**
@@ -42,7 +43,6 @@ My journey reflects my passion for problem-solving and commitment to contributin
 - Developing basic log systems for anomaly detection using Python scripts.
 - Monitor and analyze network traffic for suspicious activities.
 
-
   
 **Tools & Technologies**
 - Forensics Tools: Wireshark, Autopsy, HxD, FTK Imager
@@ -51,8 +51,6 @@ My journey reflects my passion for problem-solving and commitment to contributin
 Programming & Scripting: Python (basic level), Bash
 
 - Platforms: Kali Linux, VirtualBox, VMware
-
-
 
 **Focus Areas for Growth**
 - Advancing skills in Red Team/Blue Team simulations.
