@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Chief_kenn
 
-🔒 ** Forex Trading Analyst | Penetration Tester / Ethical Hacker Intern with Harvoxx Tech Hub**  
+🔒 ** Forex Trading Analyst | Ethical Hacker, Digital Forensics and Incident Response (DFIR) Analyst**  
 
 ---
 
 ## 🌍 **About Me**  
 
 An experienced **Forex Trader** with over three years of experience mastering market analysis and risk management, I’ve honed my ability to think critically, adapt, and execute under pressure. Recently, I’ve redirected this analytical mindset toward the dynamic and impactful field of
-**Cybersecurity**, where I’m building expertise as a **Penetration Tester / Ethical Hacker, Web Application Security and Cloud Security later in the future**.  
+**Cybersecurity**, where I’m building expertise as an **Ethical Hacker, Digital Forensics and Incident Response (DFIR) Analyst
 
-After completing an intensive **4-month foundational cybersecurity training with the prestigious Harvoxx Tech Hub**, I’ve embraced a career path focused on securing systems, uncovering vulnerabilities, and strengthening defences in an ever-evolving digital landscape.
+After completing intensive four-month foundational cybersecurity training with the prestigious Harvoxx Tech Hub, I’ve embraced a career path focused on securing systems, uncovering vulnerabilities, and strengthening defences in an ever-evolving digital landscape.
 My journey reflects my passion for problem-solving and commitment to contributing to a safer online world.  
 
 ---  
@@ -24,11 +24,45 @@ My journey reflects my passion for problem-solving and commitment to contributin
 
 ### **Cybersecurity**  
 - **Technical Skills**: Vulnerability scanning, Penetration testing, Privilege escalation, Web Application Security-OWASP TOP-10.
-- **Tools & Frameworks**:  
-  - Offensive: Kali Linux, Nmap, Metasploit, SQLmap, SpiderFoot.  
-  - Defensive: Wireshark, Burp Suite, OpenVas.  
-- **Programming**: Python scripting for automation and exploits, Bash for system administration.  
-- **Key Areas**: Web application security, network penetration testing, and ethical hacking.  
+- **TProfile
+- 
+🔐 ## **Core Expertise: Cybersecurity & DFIR**
+
+**Ethical Hacking**
+- Vulnerability assessment and penetration testing using Nmap, Metasploit, and Burp Suite.
+- Proficient in reconnaissance and information-gathering techniques.
+- Practised in controlled environments like Metasploitable to refine exploitation skills.
+
+
+**Digital Forensics & Incident Response (DFIR)**
+- Investigating system breaches and analyzing compromised systems using tools like Wireshark, Autopsy, and HxD.
+- Basic recovery of deleted files and network traffic analysis to trace attack vectors.
+
+
+**Web Application Security**
+- Identifying vulnerabilities such as SQL Injection, XSS, and CSRF using OWASP Juice Shop and DVWA.
+- Hands-on experience with OWASP ZAP and Burp Suite for testing and remediation recommendations.
+- Log Analysis & System Monitoring
+- Developing basic log systems for anomaly detection using Python scripts.
+- Monitor and analyze network traffic for suspicious activities.
+
+
+  
+**Tools & Technologies**
+- Forensics Tools: Wireshark, Autopsy, HxD, FTK Imager
+
+- Hacking Tools: Metasploit, Burp Suite, SQLmap, OWASP ZAP
+Programming & Scripting: Python (basic level), Bash
+
+- Platforms: Kali Linux, VirtualBox, VMware
+
+
+
+**Focus Areas for Growth**
+- Advancing skills in Red Team/Blue Team simulations.
+- Gaining deeper knowledge in advanced forensic techniques and reporting.
+- Working towards global certifications like CEH and Security+.
+ 
 
 ---
 
