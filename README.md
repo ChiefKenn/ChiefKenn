@@ -1,105 +1,54 @@
-# 👋 Hi, I'm Chief_kenn
+# 👋 Hi, I'm Chief_Kenn
 
-🔒 **FOREX TRADER | ETHICAL HACKER & DFIR ANALYST**  
-
----
-
-## 🌍 **About Me**  
-
-An experienced **Forex Trader** with over three years of experience mastering market analysis and risk management, I’ve honed my ability to think critically, adapt, and execute under pressure. Recently, I’ve redirected this analytical mindset toward the dynamic and impactful field of
-**Cybersecurity**, where I’m building expertise as an **Ethical Hacker, Digital Forensics and Incident Response (DFIR) Analyst
-
-After completing intensive four-month foundational cybersecurity training with the prestigious Harvoxx Tech Hub, I’ve embraced a career path focused on securing systems, uncovering vulnerabilities, and strengthening defences in an ever-evolving digital landscape.
-My journey reflects my passion for problem-solving and commitment to contributing to a safer online world.  
-
----  
-
-## 🔧 **Core Skills and Expertise**  
-
-### **Professional Forex Trader**  
-- *Advanced Fundamental Analysis, Technical analysis, Risk Management, and strategy formulation.*
-- *Platforms: MetaTrader 4 & 5, TradingView and MatchTrader.*  
-- *Trading Strategies*: Advanced Algo Trading (DAX Brand).
-
-
-
-🔐 ## **Core Expertise: Cybersecurity & DFIR**
-
-**Ethical Hacking**
-- Vulnerability assessment and penetration testing using Nmap, Metasploit, and Burp Suite.
-- Proficient in reconnaissance and information-gathering techniques.
-- Practised in controlled environments like Metasploitable to refine exploitation skills.
-
-
-**Digital Forensics & Incident Response (DFIR)**
-- Investigating system breaches and analyzing compromised systems using tools like Wireshark, Autopsy, and HxD.
-- Basic recovery of deleted files and network traffic analysis to trace attack vectors.
-
-
-**Web Application Security**
-- Identifying vulnerabilities such as SQL Injection, XSS, and CSRF using OWASP Juice Shop and DVWA.
-- Hands-on experience with OWASP ZAP and Burp Suite for testing and remediation recommendations.
-- Log Analysis & System Monitoring
-- Developing basic log systems for anomaly detection using Python scripts.
-- Monitor and analyze network traffic for suspicious activities.
-
-  
-**Tools & Technologies**
-- Forensics Tools: Wireshark, Autopsy, HxD, FTK Imager
-
-- Hacking Tools: Metasploit, Burp Suite, SQLmap, OWASP ZAP
-Programming & Scripting: Python (basic level), Bash
-
-- Platforms: Kali Linux, VirtualBox, VMware
-
-**Focus Areas for Growth**
-- Advancing skills in Red Team/Blue Team simulations.
-- Gaining deeper knowledge in advanced forensic techniques and reporting.
-- Working towards global certifications like CEH and Security+.
- 
+💹 **FOREX SWING TRADER | CYBERSECURITY ENTHUSIAST | CONTROL ROOM OFFICER**
 
 ---
 
-## 🚀 **Highlighted Projects**  
-- Incident Response: Assisted in breach investigation with a report detailing network analysis and forensic findings.
+## 🌟 About Me
 
-- Web Application Testing: Conducted vulnerability assessments for a simulated web application, providing remediation recommendations.
+I’m a passionate **Forex Swing Trader** with over **5 years of experience** analyzing the markets, executing high-probability trades, and mastering both **technical** and **fundamental analysis**. Trading has sharpened my discipline, risk management, and ability to make data-driven decisions under pressure.
 
-- Forensics Case Study: Recovered deleted images and provided a detailed forensic report using industry-standard tools.
+While trading remains my core identity, I’ve also developed a deep interest in **Cybersecurity** — particularly in **Ethical Hacking** and **Web Application Pentesting**. I trained intensively at **Harvoxx Tech Hub**, where I built strong foundational skills in system defence and vulnerability assessment.
 
-- **[Cybersecurity Practice Labs](PROJECT IN VIEW):**  
-  A collection of simulations demonstrating web app penetration testing, privilege escalation, and incident response.  
-
-- **[Forex Trading Algorithms](PROJECT IN VIEW):**  
-  Python-based tools for automated trade execution and risk management tailored for the MetaTrader platform.  
-
-- **[Incident Response Toolkit](PROJECT IN VIEW ):**  
-  A custom toolkit for analyzing network traffic, identifying breaches, and reporting vulnerabilities.  
+Currently, I serve as a **Control Room Officer at Aveon Offshore**, where I support the physical and digital security framework of critical infrastructure.
 
 ---
 
-## 🌟 **Achievements and Milestones**  
+## 🧠 Core Skills
 
-- **Trading Success**: Over three years of consistent forex education and contracts executions.
-- **Cybersecurity Challenge Completion**: Completed a 6-day intense Harvoxx Cyber Security Challenge Red Team vs. Blue Team exercise, showcasing advanced offensive and defensive techniques.  
-- **Content Creator**: Published technical articles on **Medium**, **Twitter (X)** and **LinkedIn**, sharing insights on cybersecurity tools and strategies.  
+### ⚡ Forex Trading
+- Swing Trading Strategy
+- Technical & Fundamental Analysis
+- Risk Management
+- Economic Calendar Impact Forecasting
 
----
-
-## 🌱 **What I'm Learning Now**  
-
-- **Advanced Penetration Testing**: Techniques for exploiting real-world vulnerabilities.  
-- **Python for Cybersecurity**: Building custom automation and vulnerability discovery tools.  
-- **Web Application Security**: Understanding OWASP Top 10 vulnerabilities and how to defend against them.  
-
----
-
-## 📫 **Let’s Connect**  
-
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/kenneth-wobo-85718212a)  
-- **Medium**: [Your Medium Profile](https://medium.com/@wobokennethco)  
-- **Email**: [Your Email](mailto:wobokennethco@gmail.com)  
+### 🛡️ Cybersecurity
+- Ethical Hacking (Beginner to Intermediate)
+- Web Application Pentesting (OWASP Top 10)
+- SIEM Monitoring & Incident Response (Entry-Level Exposure)
 
 ---
 
-💡 **"Turning challenges into opportunities, whether in the markets or the digital world, is my way of creating impact."**  
+## 📚 Recent Training
+- ✅ Harvoxx Tech Hub — Cybersecurity Intensive Bootcamp
+- 📈 Daily Market Review & Trading Logs (Self-Paced)
+
+---
+
+## 🧭 What I’m Working On
+- Building a **Telegram bot** for real-time Forex news & analysis
+- Practicing web application penetration testing using DVWA and TryHackMe
+- Sharing weekly market outlooks on social media
+
+---
+
+## 🔗 Let's Connect
+- 📊 [My TradingView Profile](#https://www.tradingview.com/u/wobokennethco/)
+- 🌐 [LinkedIn](#https://www.linkedin.com/in/kenneth-wobo-85718212a)
+- 🌐 [Your Medium Profile](https://medium.com/@wobokennethco)  
+- 🌐 [Your Email](mailto:wobokennethco@gmail.com) 
+- 🛠️ [TryHackMe](#)
+
+---
+
+> _“The market rewards discipline, not excitement.” — Chief_Kenn_
