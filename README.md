@@ -37,7 +37,7 @@ Currently, I serve as a **Control Room Officer at Aveon Offshore**, where I supp
 
 ## 🧭 What I’m Working On
 - Building a **Telegram bot** for real-time Forex news & analysis
-- Practicing web application penetration testing using DVWA and TryHackMe
+- Practising web application penetration testing using DVWA and TryHackMe
 - Sharing weekly market outlooks on social media
 
 ---
