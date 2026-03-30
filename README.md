@@ -1,54 +1,140 @@
 # 👋 Hi, I'm Chief_Kenn
 
-💹 **FOREX SWING TRADER | CYBERSECURITY ENTHUSIAST | CCTV CONTROL ROOM OFFICER**
+<h3 align="left">💹 Forex Trader | 🛡️ Security Analyst | 🎥 Control Room Operations | ⚙️ Automation Builder</h3>
 
 ---
 
-## 🌟 About Me
+## 🌍 About Me
 
-I’m a passionate **Forex Swing Trader** with over **5 years of experience** analyzing the markets, executing high-probability trades, and mastering both **technical** and **fundamental analysis**. Trading has sharpened my discipline, risk management, and ability to make data-driven decisions under pressure.
+I’m **Chief_Kenn** — a **Forex Swing Trader** with over **5 years of market experience**, focused on **technical structure, macro-driven bias, disciplined execution, and risk-managed trade planning**.
 
-While trading remains my core identity, I’ve also developed a deep interest in **Cybersecurity** — particularly in **Ethical Hacking** and **Web Application Pentesting**. I trained intensively at **Harvoxx Tech Hub**, where I built strong foundational skills in system defence and vulnerability assessment.
+Trading is my primary identity.
 
-Currently, I serve as a **Control Room Officer at Aveon Offshore**, where I support the physical and digital security framework of critical infrastructure.
+Beyond the financial markets, I operate across **security, surveillance, and systems-based thinking**. My professional path combines **market analysis**, **cybersecurity awareness**, **SOC-style monitoring**, and **control room operations** in environments where **alertness, discipline, and decision quality** matter.
+
+I’m currently building a technical portfolio around:
+
+- **Forex market intelligence**
+- **Trading automation**
+- **Security learning projects**
+- **SOC/analyst workflows**
+- **Operational reporting systems**
+
+My long-term vision is to build practical systems at the intersection of **finance, security, automation, and intelligence**.
 
 ---
 
-## 🧠 Core Skills
+## 🚀 What I Do
 
-### ⚡ Forex Trading
+### 💹 Forex Trading
 - Swing Trading Strategy
-- Technical & Fundamental Analysis
+- Technical Analysis & Market Structure
+- Fundamental Bias & News Interpretation
 - Risk Management
-- Economic Calendar Impact Forecasting
+- Trade Planning & Execution Discipline
+- Economic Calendar Impact Analysis
+- Market Review & Trade Journaling
 
-### 🛡️ Cybersecurity
-- Ethical Hacking (Beginner to Intermediate)
-- Web Application Pentesting (OWASP Top 10)
-- SIEM Monitoring & Incident Response (Entry-Level Exposure)
+- ### 🎥 Control Room & Surveillance Operations
+- CCTV Monitoring
+- Incident Observation & Reporting
+- Escalation Awareness
+- Activity / Access Monitoring
+- Critical Environment Alertness
 
----
+### 🛡️ Security & Cyber Operations
+- Security Monitoring Awareness
+- SIEM / Alert Review (Foundational)
+- Incident Thinking & Escalation Logic
+- Web Application Security Fundamentals
+- OWASP Top 10 Awareness
+- Vulnerability Assessment Practice
 
-## 📚 Recent Training
-- ✅ Harvoxx Tech Hub — Cybersecurity Intensive Bootcamp
-- 📈 Daily Market Review & Trading Logs (Self-Paced)
-
----
-
-## 🧭 What I’m Working On
-- Building a **Telegram bot** for real-time Forex news & analysis
-- Practising web application penetration testing using DVWA and TryHackMe
-- Sharing weekly market outlooks on social media
-
----
-
-## 🔗 Let's Connect
-- 📊 [My TradingView Profile](#https://www.tradingview.com/u/wobokennethco/)
-- 🌐 [LinkedIn](#https://www.linkedin.com/in/kenneth-wobo-85718212a)
-- 🌐 [Your Medium Profile](https://medium.com/@wobokennethco)  
-- 🌐 [Your Email](mailto:wobokennethco@gmail.com) 
-- 🛠️ [TryHackMe](#)
+### ⚙️ Automation & Technical Projects
+- Telegram Bot Development Concepts
+- Forex News Automation
+- Technical Documentation
+- Workflow Design for Trading & Security
+- Structured Learning Repositories
 
 ---
 
-> _“The market rewards discipline, not excitement.” — Chief_Kenn_
+## 🧠 Current Focus
+
+I’m currently focused on building practical, globally relevant skills and systems across:
+
+- 🤖 **Forex automation & market intelligence tools**
+- 📊 **Structured market analysis and macro-driven trade planning**
+- 🛡️ **Security monitoring, SOC workflows, and analyst development**
+- 🌐 **Hands-on web application security practice**
+- 🧩 **Technical documentation and portfolio-grade GitHub projects**
+- 📡 **Operational thinking across finance, monitoring, and security environments**
+
+---
+
+## 📌 What You’ll Find On This GitHub
+
+This GitHub is focused on projects related to:
+
+- **Forex market tools**
+- **Trading intelligence**
+- **Security learning**
+- **SOC analyst development**
+- **Web security practice**
+- **Control room/monitoring workflows**
+- **Automation and documentation systems**
+
+---
+
+## 🛠️ Core Areas
+
+### Trading & Market Analysis
+`Forex` `TradingView` `Technical Analysis` `Fundamental Analysis` `Risk Management` `Trade Journaling`
+
+### Security & Monitoring
+`Cybersecurity` `SOC` `SIEM` `OWASP` `Web Security` `Threat Awareness` `Incident Thinking`
+
+### Building & Documentation
+`GitHub` `Automation` `Telegram Bot Concepts` `Research` `Workflow Design` `Technical Documentation`
+
+---
+
+## 📚 Training & Development
+
+- ✅ **Cybersecurity Intensive Bootcamp** — Harvoxx Tech Hub  
+- 📈 **Ongoing Forex Market Study** — technical analysis, macro context, and trade journaling  
+- 🛠️ **Hands-on Security Practice** — web application testing, labs, and analyst workflow development  
+- 📘 **Continuous Self-Development** in trading systems, monitoring discipline, and technical problem-solving
+
+---
+
+## 📈 Philosophy
+
+> **“The market rewards discipline, not excitement.”**  
+> — **Chief_Kenn**
+
+The same mindset guides how I approach:
+
+- markets  
+- security  
+- monitoring  
+- decision-making  
+- systems building
+
+---
+
+## 🔗 Connect With Me
+
+- 📊 **TradingView:** [wobokennethco](https://www.tradingview.com/u/wobokennethco/)
+- 💼 **LinkedIn:** [Kenneth Wobo](https://www.linkedin.com/in/kenneth-wobo-85718212a)
+- ✍️ **Medium:** [@wobokennethco](https://medium.com/@wobokennethco)
+- 📧 **Email:** [wobokennethco@gmail.com](mailto:wobokennethco@gmail.com)
+
+---
+
+## 📍 Open To
+
+- Collaboration on **Forex / market intelligence tools**
+- Beginner-friendly **Cybersecurity / SOC projects**
+- **Automation systems** for finance or security workflows
+- Technical opportunities with **global relevance**
