@@ -6,9 +6,9 @@
 
 ## 🌍 About Me
 
-I’m **Chief_Kenn** — a **Forex Swing Trader** with over **5 years of market experience**, focused on **technical structure, macro-driven bias, disciplined execution, and risk-managed trade planning**.
+I’m **Chief_Kenn** — a **Forex Trader & Investor** with over **5 years of market experience**, focused on **technical structure, macro-driven bias, disciplined execution, and risk-managed trade planning**.
 
-Trading is my primary identity.
+My identity is to continuously change my paradigm to align with the universal mind, hopefully through behavioural psychology, finance and security
 
 Beyond the financial markets, I operate across **security, surveillance, and systems-based thinking**. My professional path combines **market analysis**, **cybersecurity awareness**, **SOC-style monitoring**, and **control room operations** in environments where **alertness, discipline, and decision quality** matter.
 
